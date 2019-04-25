@@ -1,2 +1,3 @@
 Hello,Think! Today is a good day! Yes,you are right!
 I am git.i come from linus.EnHeng!
+git four.
