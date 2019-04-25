@@ -1,2 +1,2 @@
-Hello,Think!
-I am git.
+Hello,Think! Today is a good day!
+I am git.i come from linus.
